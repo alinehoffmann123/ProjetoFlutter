@@ -1,6 +1,5 @@
 # **Gratidão App** 🌟
 
-![Gratidão App Banner](https://via.placeholder.com/1200x400.png?text=Gratidão+App)  
 *Transforme a sua vida com gratidão!*  
 
 ---
@@ -18,7 +17,6 @@ Acreditamos que a prática da gratidão pode transformar vidas, promovendo bem-e
 O **Gratidão App** oferece uma experiência limpa, intuitiva e acolhedora, com um design elegante e fácil de usar. As funcionalidades principais incluem:
 
 - **Tela de Login**: Acesso ao aplicativo com autenticação simples (e-mail e senha).
-- **Tela de Cadastro**: Criação de uma conta para novos usuários.
 - **Tela Principal (Home)**: Onde o usuário pode visualizar suas gratidões registradas.
 - **Tela de Gratidões Favoritas**: Exibe as gratidões mais especiais, marcadas como favoritas.
 - **Ajustes e Personalizações**: Possibilidade de personalizar as gratidões e acessar configurações do perfil.
@@ -27,19 +25,16 @@ O **Gratidão App** oferece uma experiência limpa, intuitiva e acolhedora, com 
 
 ## **📝 Funcionalidades**
 
-### **1. Cadastro de Usuário**
-O usuário pode criar uma nova conta fornecendo um e-mail e senha. A tela de cadastro é simples e prática.
-
-### **2. Login**
+### **1. Login**
 Realize o login usando e-mail e senha para acessar as funcionalidades do app.
 
-### **3. Adicionar Gratidões**
+### **2. Adicionar Gratidões**
 O usuário pode adicionar novas gratidões à sua lista, descrevendo o motivo pelo qual é grato naquele momento.
 
-### **4. Favoritar Gratidões**
+### **3. Favoritar Gratidões**
 Gratidões podem ser marcadas como favoritas para fácil acesso em um futuro próximo.
 
-### **5. Visualização de Gratidões Favoritas**
+### **4. Visualização de Gratidões Favoritas**
 Uma tela dedicada onde o usuário pode visualizar todas as gratidões marcadas como favoritas.
 
 ---
@@ -94,4 +89,6 @@ lib/
 ├── home_screen.dart        
 ├── favorite_gratitudes_screen.dart  
 ├── cadastro_screen.dart 
-└── main.dart              
+└── main.dart    
+
+**Desenvolvido com por Aline Fernanda Hoffmann.**  
